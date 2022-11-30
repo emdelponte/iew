@@ -1,0 +1,130 @@
+---
+title: "Alunos Internacionais nos PPGs da UFV"
+editor: visual
+code-fold: true
+toc: true
+toc-depth: 2
+format: docx
+
+---
+
+```{r}
+#| message: false
+library(tidyverse)
+library(gsheet)
+library(cowplot)
+theme_set(theme_minimal_grid(font_size = 14))
+```
+
+```{r}
+#| message: false
+dat <- gsheet2tbl("https://docs.google.com/spreadsheets/d/1ylYTeVYT95zASeClYOe4-iiByP1fIewCV9d5oNZNXuM/edit?usp=sharing")
+
+```
+
+# Programas com respostas
+
+```{r}
+
+dat %>% 
+  count(programa) |> 
+  pull(programa)
+```
+
+# % de estrangeiros no MS
+
+```{r}
+#| message: false
+#| warning: false
+dat %>% 
+  ggplot(aes(estrangeiro_ms))+
+  geom_histogram(bins =10, color = "white", fill = "steelblue")+
+  geom_vline(aes(xintercept = mean(dat$estrangeiro_ms, na.rm = TRUE)),
+             linetype = 2, size =2)+
+  labs(x = "% de estrangeiros no MS", y = "Frequência")+
+  ylim(0,8)+
+  xlim(0,50)+
+  annotate(geom = "text", label = round(mean(dat$estrangeiro_ms, na.rm = TRUE),2), x = 10, y = 8)
+
+```
+
+# % de estrangeiros no DS
+
+```{r}
+#| message: false
+#| warning: false
+dat %>% 
+  ggplot(aes(estrangeiros_ds))+
+  geom_histogram(bins =10, color = "white", fill = "steelblue")+
+  geom_vline(aes(xintercept = mean(dat$estrangeiros_ds, na.rm = TRUE)),
+             linetype = 2, size =2)+
+  labs(x = "% de estrangeiros no DS", y = "Frequência")+
+  ylim(0,8)+
+  xlim(0,20)+
+  annotate(geom = "text", label = round(mean(dat$estrangeiros_ds, na.rm = TRUE),3), x = 5.5, y = 7)
+
+```
+
+# Estrangeiros MS com bolsa
+
+```{r}
+
+dat %>% 
+  ggplot(aes(reorder(programa, ms_bolsa), ms_bolsa, fill = ms_bolsa))+
+  geom_col()+
+  coord_flip()+
+  labs(x = "", y = "", fill = "N. de bolsas",
+              title = "Número de mestrandos com bolsa CAPES/CNPq")
+
+```
+
+# Estrangeiros DS com bolsa
+
+```{r}
+
+dat %>% 
+  ggplot(aes(reorder(programa, ds_bolsa), ds_bolsa, fill = ds_bolsa))+
+  geom_col()+
+  coord_flip()+
+  labs(x = "", y = "", fill = "N. de bolsas"
+,       title = "Número de doutorandos com bolsa CAPES/CNPq")
+
+```
+
+# Recebeu bolsa FAPEMIG?
+
+```{r}
+dat %>% 
+  count(fapemig) %>% 
+  ggplot(aes(fapemig, n, label = n))+
+  geom_col(fill = "steelblue", width = 0.5)+
+  labs(x = "", 
+       title = "Programa recebeu bolsa FAPEMIG para estrangeiro?")+
+  geom_text(size =7)
+```
+
+# Estratégia de alocação
+
+```{r}
+dat %>% 
+  count(estrategia) %>% 
+  filter(estrategia != "NA") |>
+  ggplot(aes(estrategia, n))+
+  geom_col(fill = "steelblue", width = 0.5)+
+  labs(x = "", 
+       title = "Estratégia de alocação?")+
+  coord_flip()
+```
+
+# Auxílio PPG e DRI?
+
+```{r}
+dat %>% 
+  count(auxilio) %>% 
+  filter(auxilio != "NA") |> 
+  ggplot(aes(auxilio, n, label = n))+
+  geom_col(fill = "steelblue", width =0.5)+
+  labs(x = "", 
+       title = "Programa solicita auxílio da PPG e DRI?")+
+  geom_text(size =7)
+```
