@@ -9,7 +9,7 @@ lightbox:
   loop: false
 ---
 
-![](figs/fall2.jpg)
+![](figs/falls7.jpg)
 
 ## IEW13 Brazil - First announcement
 
