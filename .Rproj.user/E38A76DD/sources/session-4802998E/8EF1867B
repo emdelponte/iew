@@ -3,7 +3,7 @@
     "path": "~/Documents/GitHub/iew/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "3081317891",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1669848100516.0,
@@ -18,14 +18,14 @@
         "rmdVisualWrapConfigured": "true",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "1186:1444.800048828125"
+        "rmdVisualModeLocation": "1154:1236"
     },
     "folds": "",
-    "lastKnownWriteTime": 1669849167,
+    "lastKnownWriteTime": 1669849329,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1669849167496,
+    "last_content_update": 1669849329536,
     "read_only": false,
     "read_only_alternatives": []
 }
