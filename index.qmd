@@ -6,7 +6,7 @@ lightbox:
   match: auto
   effect: fade
   desc-position: right
-  loop: false
+  loop: true
 ---
 
 ![](figs/falls7.jpg)
@@ -29,7 +29,7 @@ The Epidemiology Commitee of ISPP (International Society of Plant Pathology) is 
 -   Lilian Amorim\
     Universidade de São Paulo\
 
--   Louise Larissa May de Mio\
+-   Louise Larissa May De Mio\
     Universidade Federal do Paraná
 
 ## About the meeting
