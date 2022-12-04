@@ -27,7 +27,7 @@ The **International Epidemiology Workshop (IEW)** is the principal working group
 
 ## 1986
 
-![](figs/1985-1.jpg)
+![](figs/1986-1.jpg)
 
 ## 1990
 
@@ -40,6 +40,10 @@ The **International Epidemiology Workshop (IEW)** is the principal working group
 ## 2001
 
 ![](figs/2001-1.jpg)
+
+## 2009
+
+![](figs/2009-1.png)
 
 ## 2018
 
