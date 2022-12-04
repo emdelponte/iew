@@ -1,0 +1,31 @@
+project:
+  type: website
+
+website:
+  title: "IEW13 Brazil"
+  
+  page-footer: "Made using Quarto"
+
+  search: 
+    location: navbar
+    type: textbox
+  
+  navbar:
+    background: steelblue
+    collapse-below: lg
+    search: true
+    left:
+     - href: about.qmd
+       text: About the meeting
+    
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+  
+
+
+
+

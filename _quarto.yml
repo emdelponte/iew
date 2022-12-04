@@ -14,9 +14,9 @@ website:
     background: steelblue
     collapse-below: lg
     search: true
-   # left:
- #   - href: index.qmd
-#      text: Home
+    left:
+     - href: about.qmd
+       text: About the meeting
     
 
 format:
