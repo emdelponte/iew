@@ -21,30 +21,38 @@ The **International Epidemiology Workshop (IEW)** is the principal working group
 
 ## Group photos
 
-### 1963
+### 1963 - IEW1 - France
 
 ![](figs/1963-1.jpg)
 
-## 1986
+## 1986 - IEW5 - Israel
 
 ![](figs/1986-1.jpg)
 
-## 1990
+## 1990 - IEW6 - Germany
 
 ![](figs/1990-1.jpg)
 
-## 1994
+## 1994 - IEW7 - The Netherlands
 
 ![](figs/1994-1.jpg)
 
-## 2001
+## 2001 - IEW8 - Brazil
 
 ![](figs/2001-1.jpg)
 
-## 2009
+## 2005 - IEW9 - France
+
+![](figs/2005-1.jpg)
+
+## 2009 - IEW10 - United States
 
 ![](figs/2009-1.png)
 
-## 2018
+## 2013 - IEW11 - China
+
+![](figs/2013-1.jpg)
+
+## 2018 - IEW12 - Norway
 
 ![](figs/2018-1.jpg)
