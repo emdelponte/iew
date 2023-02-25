@@ -6,7 +6,7 @@ title: ""
 
 ## IEW13 Brazil - First announcement
 
-![Interludium Hotel](figs/interludium.jpg){#fig-hotel style="float: right" width="289"}The Epidemiology Committee of ISPP (International Society of Plant Pathology) is pleased to announce the venue of the 13th International Epidemiology Workshop. The meeting will take place in **Foz do Iguaçu, Brazil from 9-12 April 2024** at the [Interludium hotel](https://interludiumhotel.com/). *Check here regularly for more information about the meeting.*
+![Interludium Hotel](figs/interludium.jpg){#fig-hotel style="float: right; margin:10px" width="289"}The Epidemiology Committee of ISPP (International Society of Plant Pathology) is pleased to announce the venue of the 13th International Epidemiology Workshop. The meeting will take place in **Foz do Iguaçu, Brazil from 9-12 April 2024** at the [Interludium hotel](https://interludiumhotel.com/). *Check here regularly for more information about the meeting.*
 
 ## Organizing committee
 
@@ -18,7 +18,7 @@ Louise Larissa May De Mio - maydemio\@ufpr.br\
 
 ## About the meeting
 
-![First IEW in Pau France, 1963](figs/1963-2.jpg){#fig-1963 style="float: right" width="333"}
+![First IEW in Pau France, 1963](figs/1963-2.jpg){#fig-1963 style="float: right; margin: 10px" width="333"}
 
 The **International Epidemiology Workshop (IEW)** is the principal working group of plant disease epidemiology. This is an organization with a rich history, and has met approximately every 5 years since 1963. The regularly published proceedings of the IEW include recognized benchmarks of epidemiology. A significant feature of this conference is that all participants meet as a unified group. [Read more](about.html)
 
