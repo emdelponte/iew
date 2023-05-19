@@ -8,7 +8,7 @@ title: ""
 
 ## Hosted and supported by
 
-[![](figs/ispp.png){style="margin:10px;" height="120"}](https://www.isppweb.org/) [![](figs/sbf.png){style="margin:10px;" height="90"}](https://sbfitopatologia.org.br/)
+[![](figs/ispp.png){style="margin:10px;" height="130"}](https://www.isppweb.org/) [![](figs/sbf.png){style="margin:10px;" height="90"}](https://sbfitopatologia.org.br/)
 
 ## Organizing committee
 
