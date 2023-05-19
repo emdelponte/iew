@@ -16,7 +16,7 @@ website:
     search: true
     left:
      - href: about.qmd
-       text: About the meeting
+       text: Previous meetings
     
 
 format:

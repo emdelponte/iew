@@ -1,8 +1,6 @@
 ---
-title: "About the IEW"
+title: "Previous meetings"
 ---
-
-## Previous meetings
 
 The **International Epidemiology Workshop (IEW)** is the principal working group of plant disease epidemiology. This is an organization with a rich history whose members have met approximately every 5 years since 1963. Thus far, 12 meetings have been organized:
 
