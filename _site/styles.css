@@ -9,7 +9,7 @@
   padding: 5px;
 }
 
-@media (min-width: 992px) {
+@media (min-width: 500px) {
   .column {
     flex: 1;
   }
