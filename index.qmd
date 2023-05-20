@@ -4,7 +4,15 @@ title: ""
 
 ## Welcome!
 
-![](figs/logo_iew13.png){style="float: right; margin:10px; width:320px"} The Epidemiology Committee of ISPP (International Society of Plant Pathology) and the Brazilian Phytopathological Society are pleased to announce the venue of the 13th International Epidemiology Workshop. The meeting will take place in Foz do Iguaçu, Brazil from 9-12 April 2024 at the [Interludium hotel](https://interludiumhotel.com/). This will be an excellent opportunity to bring together experts in the field of plant disease epidemiology to discuss current challenges, share knowledge, and explore new research directions.
+::: {.responsive-columns}
+::: {.column}
+The Epidemiology Committee of ISPP (International Society of Plant Pathology) and the Brazilian Phytopathological Society are pleased to announce the venue of the 13th International Epidemiology Workshop. The meeting will take place in Foz do Iguaçu, Brazil from 9-12 April 2024 at the [Interludium hotel](https://interludiumhotel.com/). This will be an excellent opportunity to bring together experts in the field of plant disease epidemiology to discuss current challenges, share knowledge, and explore new research directions.
+:::
+::: {.column}
+![](figs/logo_iew13.png){style="align: center; width:320px"}
+
+:::
+:::
 
 ## Hosted and supported by
 
