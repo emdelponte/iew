@@ -2,33 +2,25 @@
 title: ""
 ---
 
+![](figs/iew13f.png)
+
 ## Welcome!
 
-::: {.responsive-columns}
-::: {.column}
-The Epidemiology Committee of ISPP (International Society of Plant Pathology) and the Brazilian Phytopathological Society are pleased to announce the venue of the 13th International Epidemiology Workshop. The meeting will take place in Foz do Iguaçu, Brazil from 9-12 April 2024 at the [Interludium hotel](https://interludiumhotel.com/). This will be an excellent opportunity to bring together experts in the field of plant disease epidemiology to discuss current challenges, share knowledge, and explore new research directions.
-:::
-::: {.column}
-![](figs/logo_iew13b.png){style="align: center; width:360px"}
+![](figs/ispp_sbf.png){style="margin:10px; float: right" width="358"}
 
-:::
-:::
-
-## Hosted and supported by
-
-[![](figs/ispp.png){style="margin:10px;" height="130"}](https://www.isppweb.org/) [![](figs/sbf.png){style="margin:10px;" height="90"}](https://sbfitopatologia.org.br/)
-
-## Organizing committee
-
-Emerson Del Ponte - [delponte\@ufv.br](mailto:delponte@ufv.br)\
-Eduardo Mizubuti - mizubuti\@ufv.br\
-Armando Bergamin Filho - abergami\@usp.br\
-Lilian Amorim - lilian.amorim\@usp.br\
-Louise Larissa May De Mio - maydemio\@ufpr.br\
+The Epidemiology Committee of ISPP (International Society of Plant Pathology) and the Brazilian Phytopathological Society are pleased to announce the venue of the 13th International Epidemiology Workshop. The meeting will take place in Foz do Iguaçu, Brazil from 9-12 April 2024 at the [Interludium hotel](https://interludiumhotel.com/).
 
 ## About the meeting
 
 The IEW is the principal working group of plant disease epidemiology. This is an organization with a rich history, and has met approximately every 5 years since 1963. The regularly published proceedings of the IEW include recognized benchmarks of epidemiology. A significant feature of this conference is that all participants meet as a unified group. [Read more](about.html)
+
+## Organizing committee
+
+Emerson Del Ponte - UFV \
+Eduardo Mizubuti - UFV \
+Armando Bergamin Filho ESALQ/USP \
+Lilian Amorim - ESALQ/USP \
+Louise Larissa May De Mio - UFPR
 
 ## Email list
 
