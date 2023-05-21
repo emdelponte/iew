@@ -8,7 +8,7 @@ title: ""
 
 ![](figs/ispp_sbf.png){style="margin:10px; float: right" width="358"}
 
-The Epidemiology Committee of ISPP (International Society of Plant Pathology) and the Brazilian Phytopathological Society are pleased to announce the venue of the 13th International Epidemiology Workshop. The meeting will take place in Foz do Iguaçu, Brazil from 9-12 April 2024 at the [Interludium hotel](https://interludiumhotel.com/).
+The Epidemiology Committee of [ISPP](https://www.isppweb.org/) (International Society of Plant Pathology) and [SBF](http://www.sbfitopatologia.org.br) (Brazilian Phytopathological Society) are pleased to announce the venue of the 13th International Epidemiology Workshop. The meeting will take place in Foz do Iguaçu, Brazil from 9-12 April 2024 at the [Interludium hotel](https://interludiumhotel.com/).
 
 ## About the meeting
 
@@ -16,7 +16,7 @@ The IEW is the principal working group of plant disease epidemiology. This is an
 
 ## Organizing committee
 
-Emerson Del Ponte - UFV \
+Emerson Del Ponte - UFV  - delponte\@ufv.br\
 Eduardo Mizubuti - UFV \
 Armando Bergamin Filho ESALQ/USP \
 Lilian Amorim - ESALQ/USP \
