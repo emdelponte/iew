@@ -5,3 +5,6 @@
 
 /.quarto/
 .DS_Store
+.DS_Store
+*.pper
+.Rproj.user/E38A76DD/sources/prop/51B21B95
