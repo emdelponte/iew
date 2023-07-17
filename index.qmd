@@ -32,6 +32,8 @@ The IEW is the principal working group of plant disease epidemiology. This is an
 
 ^b^ Student Card
 
+[![](figs/register.PNG){fig-align="center"}](https://e3sys.com.br/iew13/)
+
 ## What is included in your registration fee?
 
 All lunches, dinners (including gala dinner), tour, Monday reception, and publication and library distribution of the conference proceedings.
