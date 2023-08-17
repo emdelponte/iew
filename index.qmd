@@ -92,7 +92,7 @@ S2: Antonio Vicent (Institut Valencià d'Investigacions Agràries)
 
 ### Wednesday
 
-9:00 **Thematic session 3** \
+9:00 Thematic session 3 \
 Plant Disease Modeling and Forecasting\
 S1: Nik Cunniffe (University of Cambridge)\
 S2: Robert Beresford (Plant and Food Research) \
