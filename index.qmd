@@ -20,7 +20,7 @@ The IEW is the principal working group of plant disease epidemiology. This is an
 
 ------------------------------------------------------------------------
 
-## Registration fees (US\$)
+## Registration (fees US\$)
 
 | Category             | Early (until Nov 15) | Late (until Feb 15) |
 |----------------------|----------------------|---------------------|
@@ -32,13 +32,13 @@ The IEW is the principal working group of plant disease epidemiology. This is an
 
 ^b^ Student Card
 
-[![](figs/register.PNG){fig-align="center"}](https://e3sys.com.br/iew13/)
+[**Click to register (pay later)**](https://e3sys.com.br/iew13/) **\| [Click to LOG IN (pay the registration fees)](https://e3sys.com.br/iew13/access)**
 
-## What is included in your registration fee?
+## What is included in your registration?
 
 All lunches, dinners (including gala dinner), tour, Monday reception, and publication and library distribution of the conference proceedings.
 
-**NOTE:**  Registration for IEW13 is limited to 100 participants. Your early response will insure participation, reduce your costs, and will greatly facilitate planning of the workshop.  
+**NOTE:**  Registration for IEW13 is limited to approximately 100 participants. Your early response will ensure participation, reduce your costs, and facilitate planning of the workshop.
 
 Registration fees are completely refundable up to 15 January 2024, so consider registering now.  After 15 January 2024, cancellations will receive a 50% refund up to 15 February 2024. Registration fees are not refundable after 15 February 2024.  No registrations can be accepted after 15 February.
 
@@ -72,7 +72,7 @@ Together with the Epidemiology committee of the International Society of Plant P
 \
 10:45 Thematic session 1\
 Artificial Intelligence and Remote Sensing in Plant Disease Epidemiology\
-S1: Rocío Madrid (Cornell)\
+S1: Rocío Madrid (Cornell University)\
 S2:
 
 12:00 Lunch
@@ -92,12 +92,13 @@ S2: Antonio Vicent (Institut Valencià d'Investigacions Agràries)
 
 ### Wednesday
 
-9:00 Thematic session 3 \
+9:00 Thematic session 3\
 Plant Disease Modeling and Forecasting\
-S1: Nik Cunniffe (University of Cambridge)\
-S2: Robert Beresford (Plant and Food Research) \
-S3: Vittorio Rossi (University of Sacro Cuori)
+S1: Robert Beresford (Plant and Food Research)\
+S2: Vittorio Rossi (University of Sacro Cuori)\
+S3: Alexey Mikaberidze (University of Reading)
 
+\
 10:45 Coffee break
 
 11:15 Oral session 2 (4 talks 10 min + 5 min discussion)\
@@ -106,12 +107,12 @@ S3: Vittorio Rossi (University of Sacro Cuori)
 
 14:00 Tour Iguassu Falls
 
-### Thursday 
+### Thursday
 
-9:00	Thematic session 4\
+9:00 Thematic session 4\
 Pathogen Evolution and Fungicide Resistance Management\
 S1: Sidney Everhart (University of Connecticut)\
-S2: \
+S2: Nik Cunniffe (University of Cambridge)\
 S3:
 
 10:45 Coffee break
@@ -120,9 +121,9 @@ S3:
 
 12:30 Lunch
 
-14:00 Thematic session 5 \
+14:00 Thematic session 5\
 Climate Change and Plant Disease Epidemiology\
-S1: Dan Bebber (University of Exeter) \
+S1: Dan Bebber (University of Exeter)\
 S2: Karen Garret (University of Florida)\
 S3:  
 
@@ -134,7 +135,7 @@ S3:  
 
 ### Friday
 
-9:00 Thematic session 6 \
+9:00 Thematic session 6\
 Epidemiology-based management strategies\
 S1: Paul Esker (Penn State University)\
 S2: Chris Gilligan (University of Cambridge)\
@@ -142,7 +143,7 @@ S3: Renato Bassanezi (Fundecitrus)
 
 10:45 Coffee break
 
-11:15 Concluding remarks and planning for IEW14  	
+11:15 Concluding remarks and planning for IEW14 
 
 \
 \
