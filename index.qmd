@@ -72,8 +72,8 @@ Together with the Epidemiology committee of the International Society of Plant P
 \
 10:45 Thematic session 1\
 Artificial Intelligence and Remote Sensing in Plant Disease Epidemiology\
-S1: Rocío Madrid (Cornell University)\
-S2:
+S1: Christian Cruz (Purdue University)\
+S2: Rocío Madrid (Cornell University)
 
 12:00 Lunch
 
