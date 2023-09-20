@@ -6,9 +6,9 @@ title: ""
 
 ## Welcome!
 
-![](figs/ispp_sbf.png){style="margin:10px; float: right" width="274"}
+![](figs/logos_apoio.png){style="margin:5px; float: right" width="274"}
 
-The Epidemiology Committee of [ISPP](https://www.isppweb.org/) (International Society of Plant Pathology) and [SBF](http://www.sbfitopatologia.org.br) (Brazilian Phytopathological Society) are pleased to announce the venue of the 13th International Epidemiology Workshop. The meeting will take place in Foz do Iguaçu, Brazil from 9-12 April 2024 at the [Interludium hotel](https://interludiumhotel.com/).
+The Epidemiology Committee of [ISPP](https://www.isppweb.org/) (International Society of Plant Pathology) and [SBF](http://www.sbfitopatologia.org.br) (Brazilian Phytopathological Society) are pleased to announce the venue of the 13th International Epidemiology Workshop. The meeting will take place in Foz do Iguaçu, Brazil from 9-12 April 2024 at the [Interludium hotel](https://interludiumhotel.com/). The meeting is sponsored by a CAPES-PAEP project.
 
 ## About the meeting
 
@@ -44,7 +44,7 @@ Registration fees are completely refundable up to 15 January 2024, so consider r
 
 ## Abstract submission
 
-We will be accepting abstracts for poster or oral talks (to be selected by the committee) which will be published in a proceedings. The instructions and deadline for submission will be informed soon.
+We will be accepting abstracts for poster or oral talks (to be selected by the committee) which will be published in a proceedings. The instructions will be informed soon. The deadline for abstract submission is January 15, 2024.
 
 ## Organizing committee
 
