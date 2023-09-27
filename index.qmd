@@ -32,7 +32,7 @@ The IEW is the principal working group of plant disease epidemiology. This is an
 
 ^b^ Student Card
 
-[**Click to register (pay later)**](https://e3sys.com.br/iew13/) **\| [Click to LOG IN (pay the registration fees)](https://e3sys.com.br/iew13/access)**
+[![](figs/register.png)](https://e3sys.com.br/iew13/) [![](figs/login.png){width="119" height="55"}](hhttps://e3sys.com.br/iew13/access/)
 
 ## What is included in your registration?
 
@@ -44,7 +44,7 @@ Registration fees are completely refundable up to 15 January 2024, so consider r
 
 ## Abstract submission
 
-We will be accepting abstracts for poster or oral talks (to be selected by the committee) which will be published in a proceedings. The instructions will be informed soon. The deadline for abstract submission is January 15, 2024.
+[![](figs/abstract.png){style="float: right; margin: 10px" width="133"}](https://e3sys.com.br/iew13/access)We are accepting simple (one A4 page) abstracts for poster or oral talks; the latter to be selected by the committee. The abstracts will be published in a proceedings. Use this [DOCX template](sample_abstract_IEW13.docx) to prepare your abstract (max of 1 page, Arial 11pt). Submit it after logging in with you registration details. The **deadline** for abstract submission is **January 15, 2024.**
 
 ## Organizing committee
 
@@ -60,9 +60,13 @@ Together with the Epidemiology committee of the International Society of Plant P
 
 ## Preliminary Program
 
+------------------------------------------------------------------------
+
 ### Monday
 
 17:00 Welcome reception (with food and drinks)
+
+------------------------------------------------------------------------
 
 ### Tuesday
 
@@ -74,14 +78,14 @@ Together with the Epidemiology committee of the International Society of Plant P
 \
 10:15 Coffee-break\
 \
-10:45 Thematic session 1\
+10:45 **Thematic session 1**\
 Artificial Intelligence and Remote Sensing in Plant Disease Epidemiology\
 S1: Christian Cruz (Purdue University)\
 S2: Rocío Madrid (Cornell University)
 
 12:00 Lunch
 
-14:00 Thematic session 2 **\
+14:00 **Thematic session 2** **\
 **Plant Disease Surveillance and Monitoring\
 S1: Miguel Angel Dita (Bioversity International)\
 S2: Antonio Vicent (Institut Valencià d'Investigacions Agràries)
@@ -94,15 +98,16 @@ S2: Antonio Vicent (Institut Valencià d'Investigacions Agràries)
 
 19:30 Dinner at Rafain Churrascaria Show
 
+------------------------------------------------------------------------
+
 ### Wednesday
 
-9:00 Thematic session 3\
+9:00 **Thematic session 3**\
 Plant Disease Modeling and Forecasting\
 S1: Robert Beresford (Plant and Food Research)\
 S2: Vittorio Rossi (University of Sacro Cuori)\
 S3: Alexey Mikaberidze (University of Reading)
 
-\
 10:45 Coffee break
 
 11:15 Oral session 2 (4 talks 10 min + 5 min discussion)\
@@ -111,9 +116,11 @@ S3: Alexey Mikaberidze (University of Reading)
 
 14:00 Tour Iguassu Falls
 
+------------------------------------------------------------------------
+
 ### Thursday
 
-9:00 Thematic session 4\
+9:00 **Thematic session 4**\
 Pathogen Evolution and Fungicide Resistance Management\
 S1: Sidney Everhart (University of Connecticut)\
 S2: Nik Cunniffe (University of Cambridge)\
@@ -125,7 +132,7 @@ S3:
 
 12:30 Lunch
 
-14:00 Thematic session 5\
+14:00 **Thematic session 5**\
 Climate Change and Plant Disease Epidemiology\
 S1: Dan Bebber (University of Exeter)\
 S2: Karen Garret (University of Florida)\
@@ -137,9 +144,11 @@ S3: Adam Sparks (Curtin University) 
 
 19:30 Cocktail with live music\
 
+------------------------------------------------------------------------
+
 ### Friday
 
-9:00 Thematic session 6\
+9:00 **Thematic session 6**\
 Epidemiology-based management strategies\
 S1: Chris Gilligan (University of Cambridge)\
 S2: Paul Esker (Penn State University)\
