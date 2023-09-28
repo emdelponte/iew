@@ -32,7 +32,7 @@ The IEW is the principal working group of plant disease epidemiology. This is an
 
 ^b^ Student Card
 
-[![](figs/register.png)](https://e3sys.com.br/iew13/) [![](figs/login.png){width="119" height="55"}](hhttps://e3sys.com.br/iew13/access/)
+[![](figs/register.png)](https://e3sys.com.br/iew13/) [![](figs/login.png){width="119" height="55"}](https://e3sys.com.br/iew13/access)
 
 ## What is included in your registration?
 
