@@ -16,7 +16,9 @@ The IEW is the principal working group of plant disease epidemiology. This is an
 
 ## Lodging
 
-![](figs/interludium.jpg){style="float: right; margin: 20px" width="218"}Rooms for IEW13 participants have been reserved at Interludium Iguassu Convention Hotel, where all activities will take place, at a discount rate. Reservations can be made via email: reservas.ifoz\@atlanticahotels.com.br or via [hotel booking webpage](https://atlantica.letsbook.com.br/reserva/busca?_ga=2.20310139.272677194.1698155632-386514168.1696963258&_rt=271101696963258624-799801698155632157-1698155634563&_gl=1*16rtg77*_gcl_au*MTM5MDk5MjQyMi4xNjk2OTYzMjU4*_ga*Mzg2NTE0MTY4LjE2OTY5NjMyNTg.*_ga_3Y7XCB2H9D*MTY5ODE1NTYzMi4yLjAuMTY5ODE1NTYzMi42MC4wLjA.&&codigoHotel=200&idioma=en-US). The daily rates for different rooms are:
+![](figs/interludium.jpg){style="float: right; margin: 20px" width="218"}Rooms for IEW13 participants have been reserved at Interludium Iguassu Convention Hotel, where all activities will take place, at a discount rate. Reservations can be made via email: reservas.ifoz\@atlanticahotels.com.br or via [hotel booking webpage](https://atlantica.letsbook.com.br/reserva/busca?_ga=2.20310139.272677194.1698155632-386514168.1696963258&_rt=271101696963258624-799801698155632157-1698155634563&_gl=1*16rtg77*_gcl_au*MTM5MDk5MjQyMi4xNjk2OTYzMjU4*_ga*Mzg2NTE0MTY4LjE2OTY5NjMyNTg.*_ga_3Y7XCB2H9D*MTY5ODE1NTYzMi4yLjAuMTY5ODE1NTYzMi42MC4wLjA.&&codigoHotel=200&idioma=en-US). Use the **promo code IEW13**.
+
+The daily rates for different rooms are:
 
 -   SGL R\$190 + 5% ISS
 
