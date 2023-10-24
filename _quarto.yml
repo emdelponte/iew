@@ -17,6 +17,8 @@ website:
     left:
      - href: about.qmd
        text: Previous meetings
+     - href: program.qmd
+       text: Program IEW13
     
 
 format:
