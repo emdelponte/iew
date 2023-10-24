@@ -16,7 +16,13 @@ The IEW is the principal working group of plant disease epidemiology. This is an
 
 ## Lodging
 
-![](figs/interludium.jpg){style="float: right; margin: 20px" width="218"}Rooms for IEW13 participants have been reserved at Interludium Iguassu Convention Hotel (where all at the activities will take place) at a discount rate. The prices will be communicated by the end of October. Check back later.
+![](figs/interludium.jpg){style="float: right; margin: 20px" width="218"}Rooms for IEW13 participants have been reserved at Interludium Iguassu Convention Hotel (where all at the activities will take place) at a discount rate. The daily rates for different rooms are:
+
+-   SGL R\$190 + 5% ISS
+
+-   DBL R\$226 + 5% ISS
+
+-   TPL R\$292 + 5% ISS
 
 ------------------------------------------------------------------------
 
@@ -60,15 +66,13 @@ Together with the Epidemiology committee of the International Society of Plant P
 
 ## Preliminary Program
 
-------------------------------------------------------------------------
-
-### Monday
+### Monday (April 8)
 
 17:00 Welcome reception (with food and drinks)
 
 ------------------------------------------------------------------------
 
-### Tuesday
+### Tuesday (April 9)
 
 8:00 Check in and tagging\
 \
@@ -100,7 +104,7 @@ S2: Antonio Vicent (Institut Valencià d'Investigacions Agràries)
 
 ------------------------------------------------------------------------
 
-### Wednesday
+### Wednesday (April 10)
 
 9:00 **Thematic session 3**\
 Plant Disease Modeling and Forecasting\
@@ -118,7 +122,7 @@ S3: Alexey Mikaberidze (University of Reading)
 
 ------------------------------------------------------------------------
 
-### Thursday
+### Thursday (April 11)
 
 9:00 **Thematic session 4**\
 Pathogen Evolution and Fungicide Resistance Management\
@@ -146,7 +150,7 @@ S3: Adam Sparks (Curtin University) 
 
 ------------------------------------------------------------------------
 
-### Friday
+### Friday (April 12)
 
 9:00 **Thematic session 6**\
 Epidemiology-based management strategies\
