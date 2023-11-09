@@ -2,7 +2,6 @@
 title: "Program"
 ---
 
-
 ### Monday (April 8)
 
 17:00 Welcome reception (with food and drinks)
@@ -13,23 +12,25 @@ title: "Program"
 
 8:00 Check in and tagging\
 \
-9:00 Opening remarks and welcome from SBF and ISPP representatives\
+8:15 Opening remarks and welcome from SBF and ISPP representatives\
 \
-9:15 Keynote talk by Prof. Laurence Madden (The Ohio State University)\
+8:30 Keynote talk by Prof. Laurence Madden (The Ohio State University)\
 \
-10:15 Coffee-break\
+9:45 Coffee-break\
 \
-10:45 **Thematic session 1**\
+10:15 **Thematic session 1**\
 Artificial Intelligence and Remote Sensing in Plant Disease Epidemiology\
 S1: Christian Cruz (Purdue University)\
-S2: Rocío Madrid (Cornell University)
+S2: Rocío Madrid (Cornell University)\
+S3:
 
 12:00 Lunch
 
 14:00 **Thematic session 2** **\
 **Plant Disease Surveillance and Monitoring\
 S1: Miguel Angel Dita (Bioversity International)\
-S2: Antonio Vicent (Institut Valencià d'Investigacions Agràries)
+S2: Antonio Vicent (Institut Valencià d'Investigacions Agràries)\
+S3:
 
 15:45 Coffee-break
 
@@ -37,13 +38,13 @@ S2: Antonio Vicent (Institut Valencià d'Investigacions Agràries)
 
 17:15 Poster session
 
-19:30 Dinner at Rafain Churrascaria Show
+19:30 Cocktail
 
 ------------------------------------------------------------------------
 
 ### Wednesday (April 10)
 
-9:00 **Thematic session 3**\
+8:30 **Thematic session 3**\
 Plant Disease Modeling and Forecasting\
 S1: Robert Beresford (Plant and Food Research)\
 S2: Vittorio Rossi (University of Sacro Cuori)\
@@ -61,7 +62,7 @@ S3: Alexey Mikaberidze (University of Reading)
 
 ### Thursday (April 11)
 
-9:00 **Thematic session 4**\
+8:30 **Thematic session 4**\
 Pathogen Evolution and Fungicide Resistance Management\
 S1: Sidney Everhart (University of Connecticut)\
 S2: Nik Cunniffe (University of Cambridge)\
@@ -83,13 +84,13 @@ S3: Adam Sparks (Curtin University) 
 
 16:15 Oral session 3 (4 talks 10 min + 5 min discussion)
 
-19:30 Cocktail with live music\
+20:00 Dinner at Rafain Churrascaria Show\
 
 ------------------------------------------------------------------------
 
 ### Friday (April 12)
 
-9:00 **Thematic session 6**\
+8:30 **Thematic session 6**\
 Epidemiology-based management strategies\
 S1: Chris Gilligan (University of Cambridge)\
 S2: Paul Esker (Penn State University)\
