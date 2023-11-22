@@ -30,7 +30,7 @@ S3:
 **Plant Disease Surveillance and Monitoring\
 S1: Neil McRoberts (University of California, Davis)\
 S2: Antonio Vicent (Institut Valencià d'Investigacions Agràries)\
-S3: David Gent
+S3: David Gent (Oregon State University)
 
 15:45 Coffee-break
 
