@@ -19,6 +19,8 @@ website:
        text: Previous meetings
      - href: program.qmd
        text: Program IEW13
+     - href: participants.qmd
+       text: See who is coming
     
 
 format:

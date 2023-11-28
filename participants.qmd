@@ -1,0 +1,17 @@
+---
+title: "Participants"
+editor_options: 
+  chunk_output_type: inline
+---
+
+```{r, echo = FALSE, warning= FALSE}
+
+library(gsheet)
+d <- gsheet2tbl("https://docs.google.com/spreadsheets/d/1VLiG_2TM8BIQZslwEGsrSFocyUyCwRvnSrLGMPGF0Yc/edit#gid=0")
+
+library(DT)
+datatable(d, options = list(
+  pageLength = 100, autoWidth = TRUE
+))
+```
+
