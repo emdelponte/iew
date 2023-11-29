@@ -73,3 +73,9 @@ Louise Larissa May De Mio - UFPR
 ## Email list
 
 Together with the Epidemiology committee of the International Society of Plant Pathology (ISPP), we are creating an updated **list of emails** that should be more easily maintained and shared with those who would like to share events and other activities in Global Plant Disease Epidemiology. As such, we made a signup email form in google docs. Only two items are required: name and email. You can add an affiliation if you want. [Click here to sign up](https://docs.google.com/forms/d/e/1FAIpQLSeXmc11403Uv4pU5V-LuBvsNa1ljVdDn3r704KdKvqAdFhuTQ/viewform)\
+
+## Travel agency
+
+We've made a partnership with [MMC](https://mmcreceptivo.com.br/).
+
+![](figs/mmc_logo.png){width="176"}

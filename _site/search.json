@@ -166,5 +166,12 @@
     "title": "Participants",
     "section": "",
     "text": "library(gsheet)\nd &lt;- gsheet2tbl(\"https://docs.google.com/spreadsheets/d/1VLiG_2TM8BIQZslwEGsrSFocyUyCwRvnSrLGMPGF0Yc/edit#gid=0\")\n\nlibrary(DT)\ndatatable(d)"
+  },
+  {
+    "objectID": "index.html#travel-agency",
+    "href": "index.html#travel-agency",
+    "title": "IEW13 Brazil",
+    "section": "Travel agency",
+    "text": "Travel agency\nWe’ve made a partnership with MMC."
   }
 ]
