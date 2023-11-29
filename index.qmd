@@ -76,6 +76,6 @@ Together with the Epidemiology committee of the International Society of Plant P
 
 ## Travel agency
 
-We've made a partnership with [MMC](https://mmcreceptivo.com.br/).
+We've made a partnership with [MMC](https://eventos.mmcreceptivo.com.br/).
 
-![](figs/mmc_logo.png){width="176"}
+![](figs/mmc3.png){width="176"}
