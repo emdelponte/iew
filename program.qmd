@@ -80,7 +80,7 @@ S3: Adam Sparks (Curtin University) 
 Pathogen Evolution and Fungicide Resistance Management\
 S1: Sidney Everhart (University of Connecticut)\
 S2: Nik Cunniffe (University of Cambridge)\
-S3:
+S3: Arne Stensvand (NIBIO)
 
 15:45 Coffee break
 
