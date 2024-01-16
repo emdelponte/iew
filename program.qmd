@@ -4,7 +4,7 @@ title: "Program"
 
 ### Monday (April 8)
 
-17:00 Welcome reception (with food and drinks)
+17:00 Welcome reception
 
 ------------------------------------------------------------------------
 
@@ -47,7 +47,7 @@ S3: David Gent (Oregon State University)
 8:30 **Thematic session 3**\
 Plant Disease Modeling and Forecasting\
 S1: Robert Beresford (Plant and Food Research)\
-S2: Vittorio Rossi (University of Sacro Cuori)\
+S2: Irene Salotti (University of Sacro Cuori)\
 S3: Alexey Mikaberidze (University of Reading)
 
 10:20 Coffee break
@@ -94,7 +94,7 @@ S3: Arne Stensvand (NIBIO)
 
 8:30 **Thematic session 6**\
 Epidemiology-based management strategies\
-S1: Chris Gilligan (University of Cambridge)\
+S1: Mary Ruth McDonald (University of Guelph)\
 S2: Paul Esker (Penn State University)\
 S3: Renato Bassanezi (Fundecitrus)
 
