@@ -18,6 +18,8 @@ The IEW is the principal working group of plant disease epidemiology. This is an
 
 ## Registration (fees US\$)
 
+**We are thrilled to announce that the ticket sale is now closed - we are all sold out.**
+
 | Category             | Early (until Nov 15) | Late (until Feb 15) |
 |----------------------|----------------------|---------------------|
 | Regular^a^           | 370\$                | 410\$               |
@@ -28,19 +30,17 @@ The IEW is the principal working group of plant disease epidemiology. This is an
 
 ^b^ Student Card
 
-[![](figs/register.png)](https://e3sys.com.br/iew13/) [![](figs/login.png){width="119" height="55"}](https://e3sys.com.br/iew13/access)
+[![](figs/login.png){width="119" height="55"}](https://e3sys.com.br/iew13/access)
 
 ## What is included in your registration?
 
 All lunches, dinners (including gala dinner), tour, Monday reception, and publication and library distribution of the conference proceedings.
 
-**NOTE:**  Registration for IEW13 is limited to approximately 100 participants. Your early response will ensure participation, reduce your costs, and facilitate planning of the workshop.
-
-Registration fees are completely refundable up to 15 January 2024, so consider registering now.  After 15 January 2024, cancellations will receive a 50% refund up to 15 February 2024. Registration fees are not refundable after 15 February 2024.  No registrations can be accepted after 15 February.
+Note: Registration fees are completely refundable up to 15 January 2024, so consider registering now.  After 15 January 2024, cancellations will receive a 50% refund up to 15 February 2024. Registration fees are not refundable after 15 February 2024.  No registrations can be accepted after 15 February.
 
 ## Abstract submission
 
-[![](figs/abstract.png){style="float: right; margin: 10px" width="133"}](https://e3sys.com.br/iew13/access)We are accepting simple (one A4 page) abstracts for poster or oral talks; the latter to be selected by the committee. The abstracts will be published in a proceedings. Use this [DOCX template](sample_abstract_IEW13.docx) to prepare your abstract (max of 1 page, Arial 11pt). Submit it after logging in with you registration details. The **deadline** for abstract submission is **January 30, 2024.**
+The **deadline** for abstract submission was **January 30, 2024.** We are no longer accepting abstracts.
 
 ## Lodging
 
