@@ -21,6 +21,10 @@ website:
        text: Program IEW13
      - href: participants.qmd
        text: See who is coming
+     - href: posters.qmd
+       text: Accepted posters
+     - href: oral.qmd
+       text: Accepted oral talks
     
 
 format:

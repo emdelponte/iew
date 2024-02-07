@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>IEW13 Brazil -</title>
+<title>IEW13 Brazil - Participants</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -60,6 +60,16 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+<script src="site_libs/htmlwidgets-1.6.2/htmlwidgets.js"></script>
+<link href="site_libs/datatables-css-0.0.0/datatables-crosstalk.css" rel="stylesheet">
+<script src="site_libs/datatables-binding-0.30/datatables.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<link href="site_libs/dt-core-1.13.4/css/jquery.dataTables.min.css" rel="stylesheet">
+<link href="site_libs/dt-core-1.13.4/css/jquery.dataTables.extra.css" rel="stylesheet">
+<script src="site_libs/dt-core-1.13.4/js/jquery.dataTables.min.js"></script>
+<link href="site_libs/crosstalk-1.2.0/css/crosstalk.min.css" rel="stylesheet">
+<script src="site_libs/crosstalk-1.2.0/js/crosstalk.min.js"></script>
+
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -94,7 +104,7 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">See who is coming</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./posters.html" rel="" target="">
+    <a class="nav-link active" href="./posters.html" rel="" target="" aria-current="page">
  <span class="menu-text">Accepted posters</span></a>
   </li>  
   <li class="nav-item">
@@ -113,125 +123,37 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#welcome" id="toc-welcome" class="nav-link active" data-scroll-target="#welcome">Welcome!</a></li>
-  <li><a href="#about-the-meeting" id="toc-about-the-meeting" class="nav-link" data-scroll-target="#about-the-meeting">About the meeting</a></li>
-  <li><a href="#registration-fees-us" id="toc-registration-fees-us" class="nav-link" data-scroll-target="#registration-fees-us">Registration (fees US$)</a></li>
-  <li><a href="#what-is-included-in-your-registration" id="toc-what-is-included-in-your-registration" class="nav-link" data-scroll-target="#what-is-included-in-your-registration">What is included in your registration?</a></li>
-  <li><a href="#abstracts" id="toc-abstracts" class="nav-link" data-scroll-target="#abstracts">Abstracts</a></li>
-  <li><a href="#lodging" id="toc-lodging" class="nav-link" data-scroll-target="#lodging">Lodging</a></li>
-  <li><a href="#how-to-reach-foz-do-iguaçu" id="toc-how-to-reach-foz-do-iguaçu" class="nav-link" data-scroll-target="#how-to-reach-foz-do-iguaçu">How to reach Foz do Iguaçu</a></li>
-  <li><a href="#organizing-committee" id="toc-organizing-committee" class="nav-link" data-scroll-target="#organizing-committee">Organizing committee</a></li>
-  <li><a href="#email-list" id="toc-email-list" class="nav-link" data-scroll-target="#email-list">Email list</a></li>
-  <li><a href="#travel-agency" id="toc-travel-agency" class="nav-link" data-scroll-target="#travel-agency">Travel agency</a></li>
-  </ul>
-</nav>
+        
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-
-
-<p><img src="figs/iew13f.png" class="img-fluid"></p>
-<section id="welcome" class="level2">
-<h2 class="anchored" data-anchor-id="welcome">Welcome!</h2>
-<p><img src="figs/logos.png" class="img-fluid" style="margin:5px; float: right" width="348"></p>
-<p>The Epidemiology Committee of <a href="https://www.isppweb.org/">ISPP</a> (International Society of Plant Pathology) and <a href="http://www.sbfitopatologia.org.br">SBF</a> (Brazilian Phytopathological Society) are pleased to announce the venue of the 13th International Epidemiology Workshop. The meeting will take place in Foz do Iguaçu, Brazil from 9-12 April 2024 at the <a href="https://interludiumhotel.com/">Interludium hotel</a>. The meeting is sponsored by a CAPES-PAEP and a CNPq grant projects.<br><br></p>
-</section>
-<section id="about-the-meeting" class="level2">
-<h2 class="anchored" data-anchor-id="about-the-meeting">About the meeting</h2>
-<p>The IEW is the principal working group of plant disease epidemiology. This is an organization with a rich history, and has met approximately every 5 years since 1963. The regularly published proceedings of the IEW include recognized benchmarks of epidemiology. A significant feature of this conference is that all participants meet as a unified group. <a href="about.html">Read more</a></p>
-<hr>
-</section>
-<section id="registration-fees-us" class="level2">
-<h2 class="anchored" data-anchor-id="registration-fees-us">Registration (fees US$)</h2>
-<p><strong>We are thrilled to announce that the ticket sale is now closed - we are all sold out.</strong></p>
-<table class="table">
-<thead>
-<tr class="header">
-<th>Category</th>
-<th>Early (until Nov 15)</th>
-<th>Late (until Feb 15)</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Regular<sup>a</sup></td>
-<td>370$</td>
-<td>410$</td>
-</tr>
-<tr class="even">
-<td>Student<sup>a,b</sup></td>
-<td>270$</td>
-<td>310$</td>
-</tr>
-<tr class="odd">
-<td>Accompanying (adult)</td>
-<td>180$</td>
-<td></td>
-</tr>
-</tbody>
-</table>
-<p><sup>a</sup> SBF (Brazilian Phytopathological Society) members will benefit from a <strong>40$ discount</strong></p>
-<p><sup>b</sup> Student Card</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><a href="https://e3sys.com.br/iew13/access"><img src="figs/login.png" width="119" height="55" class="figure-img"></a></p>
-</figure>
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Participants</h1>
 </div>
-</section>
-<section id="what-is-included-in-your-registration" class="level2">
-<h2 class="anchored" data-anchor-id="what-is-included-in-your-registration">What is included in your registration?</h2>
-<p>All lunches, dinners (including dinner show), tour, Monday reception, and publication and library distribution of the conference proceedings.</p>
-<p>Note: Registration fees are completely refundable up to 15 January 2024, so consider registering now.&nbsp; After 15 January 2024, cancellations will receive a 50% refund up to 15 February 2024. Registration fees are not refundable after 15 February 2024.&nbsp; <strong>No registrations and payments can be accepted after 15 February.</strong></p>
-</section>
-<section id="abstracts" class="level2">
-<h2 class="anchored" data-anchor-id="abstracts">Abstracts</h2>
-<ul>
-<li>See the list of accepted <a href="posters.html">POSTERS</a> and <a href="oral.html">ORAL TALKS</a> judged by the Scientific Committe.</li>
-</ul>
-</section>
-<section id="lodging" class="level2">
-<h2 class="anchored" data-anchor-id="lodging">Lodging</h2>
-<p><img src="figs/interludium.jpg" class="img-fluid" style="float: right; margin: 20px" width="218">Rooms for IEW13 participants have been reserved at Interludium Iguassu Convention Hotel, where all activities will take place, at a discount rate. Reservations can be made via email: reservas.ifoz@atlanticahotels.com.br or via <a href="https://atlantica.letsbook.com.br/reserva/busca?_ga=2.20310139.272677194.1698155632-386514168.1696963258&amp;_rt=271101696963258624-799801698155632157-1698155634563&amp;_gl=1*16rtg77*_gcl_au*MTM5MDk5MjQyMi4xNjk2OTYzMjU4*_ga*Mzg2NTE0MTY4LjE2OTY5NjMyNTg.*_ga_3Y7XCB2H9D*MTY5ODE1NTYzMi4yLjAuMTY5ODE1NTYzMi42MC4wLjA.&amp;&amp;codigoHotel=200&amp;idioma=en-US">hotel booking webpage</a>. Use the <strong>promo code IEW13</strong>.</p>
-<p>The daily rates for different rooms are:</p>
-<ul>
-<li><p>SGL R$190 + 5% ISS</p></li>
-<li><p>DBL R$226 + 5% ISS</p></li>
-<li><p>TPL R$292 + 5% ISS</p></li>
-</ul>
-</section>
-<section id="how-to-reach-foz-do-iguaçu" class="level2">
-<h2 class="anchored" data-anchor-id="how-to-reach-foz-do-iguaçu">How to reach Foz do Iguaçu</h2>
-<p><strong>By Plane:</strong> The nearest airport to reach Foz do Iguaçu is the Foz do Iguaçu/Cataratas International Airport that offers frequent flights to Rio de Janeiro,&nbsp;Sao Paulo,&nbsp;Santiago de Chile&nbsp;etc.</p>
-<p><strong>By Bus:</strong> Foz do Iguaçu is connected to rest of the major cities in Brazil through bus transportation that links to Sao Paulo, Rio de Janeiro, Curitiba, Campo Grande, Belo Horizonte, Florianopolis, Santos, Bonito, Criciúma, Buenos Aires.</p>
-<p><strong>By Car:</strong> Main highways that connect cities to Foz do Iguaçu are: From Curitiba: BR-277, From São Paulo: BR-116/BR-277, From Rio de Janeiro: BR-116/BR277</p>
-</section>
-<section id="organizing-committee" class="level2">
-<h2 class="anchored" data-anchor-id="organizing-committee">Organizing committee</h2>
-<p>Emerson Del Ponte - UFV - delponte@ufv.br<br>
-Eduardo Mizubuti - UFV<br>
-Armando Bergamin Filho - ESALQ/USP<br>
-Lilian Amorim - ESALQ/USP<br>
-Louise Larissa May De Mio - UFPR</p>
-</section>
-<section id="email-list" class="level2">
-<h2 class="anchored" data-anchor-id="email-list">Email list</h2>
-<p>Together with the Epidemiology committee of the International Society of Plant Pathology (ISPP), we are creating an updated <strong>list of emails</strong> that should be more easily maintained and shared with those who would like to share events and other activities in Global Plant Disease Epidemiology. As such, we made a signup email form in google docs. Only two items are required: name and email. You can add an affiliation if you want. <a href="https://docs.google.com/forms/d/e/1FAIpQLSeXmc11403Uv4pU5V-LuBvsNa1ljVdDn3r704KdKvqAdFhuTQ/viewform">Click here to sign up</a><br>
-</p>
-</section>
-<section id="travel-agency" class="level2">
-<h2 class="anchored" data-anchor-id="travel-agency">Travel agency</h2>
-<p>We are partnering with <a href="https://eventos.mmcreceptivo.com.br/">MMC Eventos e Turismo</a><br>
-Contact number: <a href="https://wa.link/xgmyo7">+55 45 35747800</a> (WhatsApp link)<br>
-You can book your travel and transfers airport &lt;-&gt; hotel</p>
-<p><img src="figs/mmc3.png" class="img-fluid" width="176"></p>
 
 
-</section>
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+</header>
+
+<div class="cell">
+<div class="cell-output-display">
+
+<div class="datatables html-widget html-fill-item-overflow-hidden html-fill-item" id="htmlwidget-8c6e6613461198c73e8d" style="width:100%;height:auto;"></div>
+<script type="application/json" data-for="htmlwidget-8c6e6613461198c73e8d">{"x":{"filter":"none","vertical":false,"data":[["1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25","26","27","28","29","30","31","32","33","34","35","36","37","38","39","40","41","42","43","44","45","46","47","48","49","50","51","52","53","54","55","56","57","58"],["Dallagnol","McDonald","McDonald","Russel","Ramirez-Gil","Ramos","Cazon","Cruz-Sancan","Sales","Azevedo","Enciso-Maldonado","Moraes","Gama","Kim","Peterman","Carraro","Alves","Lopez-Vasquez","Canale","Gonçalves","Tomáz","Souza","Souza","Puia","Sanjel","Nunes","Gossen","McDonald","Steiner","Gonzales","Shittu","Paiva","Ribeiro","Leao","Santos","Becton","Zuchelli","Robledo","Alonzo","Marin","Mata","Zuniga","Moufa-Tchinda","Adhikari","Choudhary","Daniel","Castellar","Heim","B. Juliatti","Lourenço Jr","Combes","asalf","Dalla Lana","Lane","Andersen-Onofre","Kessler","Fernandez-Ocampo","Harteveld"],["Fusarium species and mycotoxins in barley grains through different physiographic regions of Rio Grande do Sul, Brazil","Success in forecasting downy mildew of onion with DOWNCAST","Attempts to forecast Stemphylium vesicarium on onions when the pathogen is resistant to most fungicides","Baselining prioritization of epidemic control","Advancing Plant Epidemic analysis through Data Science: Tools, Techniques, and Applications","Injury-Damage relation for yellow spot, leaf rust and multiple pathosystem in wheat","Improving the accuracy in visual estimation of peanut late leaf spot severity: online training tools, SAD, or both?","Shaping the attributes of a successful and unified tar spot assessment scheme","Drought, high temperature and rust (Neophysopella tropicalis): a dangerous combination for ‘Niagara Rosada’ grapevine","Influence of plastic cover on raspberry late rust and the dynamics of airborne Aculeastrum americanum urediniospores in filed.","Monitoring Phakopsora pachyrhizi with spore traps in commercial soybean fields in Paraguay in the 2023/2024 season","Probability Modeling of Coffee Rust Epidemic in Conilon Coffee: A Focus on Sustainable Management","Spread of Neopestalotiopsis sp. From Strawberry Under Simulated Rainfall and Wind and From Different Inoculum Sources","Model-based prediction of the selection of fungicide resistance in pepper anthracnose pathogen, Collectotrichum scovillei, in Korea","The removal of symptomatic leaves on the ground has little impact on the development of Glomerella Leaf Spot in apple orchards with a high inoculum potential","Environmental requirements for germination, growth, and infection of Alternaria species in mandarins","A Bayesian-based quarantine exit strategy.","Quantification of airborne basidiospores of Ganoderma zonatum at different altitudinal gradients and their relationship with environmental conditions in oil palm","Unravelling the spatial dynamics and incidence of corn stunting disease complex in Brazilian maize fields","Temperature increase impacts the temporal progress of myrtle rust and physiological damage on guava","Profitability assessment of fungicides and resistant varieties in wheat blast control: A simulation-based approach","Criteria for fungicide applications in asian soybean rust control: An analysis of Spore collector, scheduled Application, and monitoring.","Unraveling the soybean anomaly: The revealing risk tree and fungicide management","Incubation period, number of lesions and severity of isolates of Corynespora cassiicola in soybean cultivars","Evaluating planting date recommendation effects on soybean yield using causal inference","Impact of water deficit on the initial development of Asian soybean rust","Balancing selection complicates management of clubroot and (possibly) other problem diseases.","Attempts to forecast Stemphylium vesicarium on onions when the pathogen population is resistant to most fungicides","Asymptomatic grapevine leaves harbor inoculum for Colletotrichum spp.","Spatiotemporal dynamics of Fusarium wilt of banana caused by subtropical race 4 of Fusarium oxysporum f.sp. cubense","Fusarium Head Blight Prediction: Assessing the Accuracy of iButton Microclimate Data Against Weather Station Data","Comparison of quantification methods for assessing Gibberella stalk rot severity on corn","Building a Hyperspectral Library of Common Bean Diseases","Does leaf position influence maize disease severity estimates by remote sensing?","Severity of foliar diseases in maize: how can estimates be improved?","The development of weather-based models for six soybean stem diseases observed across North Dakota","Influencing factors on fungicide response in TN soybean","Fusarium oxysporum f.sp. cubense Tropical Race 4 threatens Colombian bananas: Translating analyses of host connectivity, trade, and stakeholder movement to inform management and surveillance","Network analysis of Neopestalotiopsis sp. spread from nurseries to strawberry farms in Florida, USA.","Evaluation of disease infection models to time fungicide applications to manage Neopestalotiopsis sp. on strawberry in Florida","Modeling landscape-level transmission of a shared pathogen in a heterogeneous agroecosystem","Effect of incubation temperature and wetness duration on Neopestalotiopsis sp. germination and Pestalotia Leaf Spot disease development on strawberry.","Global surveillance and mitigation strategies for laurel wilt, a major threat to avocado production and forests","R2M toolbox for rapid risk assessment to support mitigation of pathogens and pests: Perspectives on rice health in Nepal","Mitigating the risk from the cut flower trade to protect global systems from invasive pests and pathogens","Using Explainable Machine Learning for Asian Soybean Rust Severity Prediction","Grapevine Leaf Spot Leads to Early Defoliation and Production Loss in V. labrusca (Bordô Cultivar)","Remotely sensed leaf area index can improve mechanistic Cercospora beticola epidemiological models for disease predictions","Comparison of genotypes with partial resistance against soybean rust in relation to the binomial temperature and leaf wetness duration","Genetic resistance and temporal progress of onion white rot in Brazil","Estimating the sensitivity and specificity of visual detection of tree pests and diseases","Evaluating TOMCAST model for predicting timing of fungicide applications to control Alternaria diseases in Carrot and Potato","Disease Reaction Classification Considering Trial Accuracy and Phenotype Stability: A Case Study with Rice","What does “bottom-up” actually mean for tar spot disease development in corn?","Revisiting the epidemiology and biology of Tilletia spp. infecting wheat in the United States","Predictive Modeling of Sudden Death Syndrome of Soybean in Kansas","Evaluating the Potential of Multisource Data for Predicting Corn Tar Spot Intensity","Metabarcoding and AI as tools in diagnostics, disease epidemiology and modeling"]],"container":"<table class=\"display\">\n  <thead>\n    <tr>\n      <th> <\/th>\n      <th>author<\/th>\n      <th>title<\/th>\n    <\/tr>\n  <\/thead>\n<\/table>","options":{"pageLength":100,"autoWidth":true,"columnDefs":[{"orderable":false,"targets":0}],"order":[],"orderClasses":false}},"evals":[],"jsHooks":[]}</script>
+</div>
+</div>
+
+
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

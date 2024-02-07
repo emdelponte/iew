@@ -32,7 +32,7 @@
     "href": "index.html#what-is-included-in-your-registration",
     "title": "IEW13 Brazil",
     "section": "What is included in your registration?",
-    "text": "What is included in your registration?\nAll lunches, dinners (including gala dinner), tour, Monday reception, and publication and library distribution of the conference proceedings.\nNote: Registration fees are completely refundable up to 15 January 2024, so consider registering now.  After 15 January 2024, cancellations will receive a 50% refund up to 15 February 2024. Registration fees are not refundable after 15 February 2024.  No registrations can be accepted after 15 February."
+    "text": "What is included in your registration?\nAll lunches, dinners (including dinner show), tour, Monday reception, and publication and library distribution of the conference proceedings.\nNote: Registration fees are completely refundable up to 15 January 2024, so consider registering now.  After 15 January 2024, cancellations will receive a 50% refund up to 15 February 2024. Registration fees are not refundable after 15 February 2024.  No registrations and payments can be accepted after 15 February."
   },
   {
     "objectID": "index.html#organizing-committee",
@@ -173,5 +173,26 @@
     "title": "IEW13 Brazil",
     "section": "Travel agency",
     "text": "Travel agency\nWe are partnering with MMC Eventos e Turismo\nContact number: +55 45 35747800 (WhatsApp link)\nYou can book your travel and transfers airport &lt;-&gt; hotel"
+  },
+  {
+    "objectID": "oral.html",
+    "href": "oral.html",
+    "title": "Posters",
+    "section": "",
+    "text": "Attaching package: 'dplyr'\n\n\nThe following objects are masked from 'package:stats':\n\n    filter, lag\n\n\nThe following objects are masked from 'package:base':\n\n    intersect, setdiff, setequal, union"
+  },
+  {
+    "objectID": "posters.html",
+    "href": "posters.html",
+    "title": "Participants",
+    "section": "",
+    "text": "Attaching package: 'dplyr'\n\n\nThe following objects are masked from 'package:stats':\n\n    filter, lag\n\n\nThe following objects are masked from 'package:base':\n\n    intersect, setdiff, setequal, union"
+  },
+  {
+    "objectID": "index.html#abstracts",
+    "href": "index.html#abstracts",
+    "title": "IEW13 Brazil",
+    "section": "Abstracts",
+    "text": "Abstracts\n\nSee the list of accepted POSTERS and ORAL TALKS judged by the Scientific Committe."
   }
 ]

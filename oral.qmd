@@ -1,0 +1,19 @@
+---
+title: "Posters"
+editor_options: 
+  chunk_output_type: inline
+---
+
+```{r, echo = FALSE, warning= FALSE, message=FALSE}
+
+library(gsheet)
+d <- gsheet2tbl("https://docs.google.com/spreadsheets/d/1uHbxMwE0heznb73jfokyENt8GmsuUsx4iDGzntJqWmE/edit#gid=700886714")
+
+library(DT)
+library(dplyr)
+d2 <- d |> dplyr::select(author, title)
+datatable(d2, options = list(
+  pageLength = 100, autoWidth = TRUE
+))
+```
+
