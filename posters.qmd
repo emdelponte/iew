@@ -1,5 +1,5 @@
 ---
-title: "Participants"
+title: "Posters"
 editor_options: 
   chunk_output_type: inline
 ---
