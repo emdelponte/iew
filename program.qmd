@@ -14,7 +14,8 @@ title: "Program"
 \
 8:15 Opening remarks and welcome from SBF and ISPP representatives\
 \
-8:30 Keynote talk by Prof. Laurence Madden (The Ohio State University)\
+8:30 Keynote talk\
+Some reflections on plant disease epidemiology since the first international workshop - Prof. Laurence Madden (The Ohio State University)\
 \
 9:30 **Thematic session 1**\
 Artificial Intelligence and Remote Sensing in Plant Disease Epidemiology\
