@@ -18,6 +18,8 @@ title: "Program"
 Some reflections on plant disease epidemiology since the first international workshop - Prof. Laurence Madden (The Ohio State University)\
 \
 9:30 **Thematic session 1 -** Artificial Intelligence and Remote Sensing in Plant Disease Epidemiology\
+Moderator: Robin Choudhury
+
 S1: Modernizing Plant Disease Monitoring: Integrating UAV and Ground-Based Imaging in Epidemiological Research - Christian Cruz (Purdue University)
 
 S2: Global risk of Fusarium wilt mapped by remote sensing and aerosol transport modeling in a changing climate - Rocío Madrid (Cornell University)\
@@ -25,6 +27,8 @@ S2: Global risk of Fusarium wilt mapped by remote sensing and aerosol transport 
 10:30 Coffee Break + group photo
 
 11:00 **Oral session 1** (4 talks 10 min + 5 min discussion)
+
+Moderator: Felipe Dalla Lana
 
 |             |                                                                                                                                                                    |
 |-----------------|-------------------------------------------------------|
@@ -35,7 +39,9 @@ S2: Global risk of Fusarium wilt mapped by remote sensing and aerosol transport 
 
 12:00 Lunch
 
-13:30 **Thematic session 2** - Plant Disease Surveillance and Monitoring\
+13:30 **Thematic session 2** - Plant Disease Surveillance and Monitoring
+
+Moderator: Peter Ojiambo\
 S1: Surveillance in systems with vectored diseases: gathering information to inform intervention - Neil McRoberts (University of California, Davis)
 
 S2: Assessment of outbreak management plans: surveillance and control strategies for Xylella fastidiosa in the EU -Antonio Vicent (Institut Valencià d'Investigacions Agràries)
@@ -43,6 +49,8 @@ S2: Assessment of outbreak management plans: surveillance and control strategies
 S3: What explains growers' fungicide use and management: From monitoring to causal inference - David Gent (Oregon State University)
 
 15:00 **Oral session 2** (4 talks 10 min + 5 min discussion)
+
+Moderator: Kelsey Andersen
 
 |               |                                                                                                                                                                           |
 |-------------------|-----------------------------------------------------|
@@ -54,6 +62,8 @@ S3: What explains growers' fungicide use and management: From monitoring to caus
 16:00 Coffee break
 
 16:20 **Oral session 3** (4 talks 10 min + 5 min discussion)
+
+Moderator: Marcelo Canteri
 
 |          |                                                                                                                                      |
 |------------------|------------------------------------------------------|
@@ -70,7 +80,9 @@ S3: What explains growers' fungicide use and management: From monitoring to caus
 
 ### Wednesday (April 10)
 
-8:00 **Thematic session 3 -** Plant Disease Modeling and Forecasting\
+8:00 **Thematic session 3 -** Plant Disease Modeling and Forecasting
+
+Moderator: Damon Smith\
 S1: Pathogen process models: versatile tools for disease risk prediction - Robert Beresford (Plant and Food Research)
 
 S2: Disease models for decision-making in crop protection - Irene Salotti (University of Sacro Cuori)
@@ -78,6 +90,8 @@ S2: Disease models for decision-making in crop protection - Irene Salotti (Unive
 S3: Economic analysis of plant disease epidemics across multiple fields: estimating the economic cost of pathogen adaptation to control measures -Alexey Mikaberidze (University of Reading)
 
 9:30 **Oral session 4** (4 talks 10 min + 5 min discussion)
+
+Moderator: Natalia Peres
 
 |         |                                                                                                                                        |
 |------------------|------------------------------------------------------|
@@ -90,6 +104,8 @@ S3: Economic analysis of plant disease epidemics across multiple fields: estimat
 
 10:50 - **Oral session 5** (4 talks 10 min+5 discussion)
 
+Moderator: Lilian Amorim
+
 |          |                                                                                                                                                            |
 |------------------|------------------------------------------------------|
 | Cerbaro  | Influence of the El Niño Southern Oscillation on the risk of Botrytis fruit rot occurrence in Florida                                                      |
@@ -100,18 +116,22 @@ S3: Economic analysis of plant disease epidemics across multiple fields: estimat
 \
 12:00 Lunch
 
-13:30 **Thematic session 4 -** Climate Change and Plant Disease Epidemiology\
+13:30 **Thematic session 4 -** Climate Change and Plant Disease Epidemiology
+
+Moderator: José Maurício Fernandes\
 S1: Adapting global plant health management to global change: Opportunities for contributions from epidemiology -Karen Garret (University of Florida)
 
 S2: Adam Sparks (Curtin University) 
 
 15:00 **Oral session 6** (4 talks 10 min + 5 min discussion)
 
+Moderator: Murillo Lobo
+
 |               |                                                                                                                                                                                   |
 |------------------|------------------------------------------------------|
 | Chedjou       | Combining masculinizing resistance, rotation and biocontrol to achieve durable suppression of the potato pale cyst nematode: a model                                              |
 | Gongora-Canul | Comparative Epidemiology of Tar Spot as an Endemic and Emerging Disease in the Americas                                                                                           |
-| asalf         | Effect of cover crops and green manuring on sclerotinia white rot disease development and yield in carrot                                                                         |
+| Asalf         | Effect of cover crops and green manuring on sclerotinia white rot disease development and yield in carrot                                                                         |
 | Helps         | What happens to durability of disease control in fields of growers who run a resistance management programme when neighbours use only one component of the resistance management? |
 
 16:00 Coffee break\
@@ -125,7 +145,9 @@ S2: Adam Sparks (Curtin University) 
 
 8:00 Tour Iguassu Falls
 
-14:00 **Thematic session 5 -** Pathogen Evolution and Fungicide Resistance Management\
+14:00 **Thematic session 5 -** Pathogen Evolution and Fungicide Resistance Management
+
+Moderator: Larrisa May de Mio\
 S1: Sidney Everhart (University of Connecticut)\
 S2: Nik Cunniffe (University of Cambridge)\
 S3: Managing fungicide resistance in Botrytis - Arne Stensvand (NIBIO)
@@ -133,6 +155,8 @@ S3: Managing fungicide resistance in Botrytis - Arne Stensvand (NIBIO)
 15:45 Coffee break
 
 16:15 **Oral session 7** (4 talks 10 min + 5 min discussion)
+
+Moderator: Juan Pablo Edwards
 
 |               |                                                                                                                                                                                          |
 |------------------|------------------------------------------------------|
@@ -147,7 +171,9 @@ S3: Managing fungicide resistance in Botrytis - Arne Stensvand (NIBIO)
 
 ### Friday (April 12)
 
-8:30 **Thematic session 6 -** Epidemiology-based management strategies\
+8:30 **Thematic session 6 -** Epidemiology-based management strategies
+
+Moderator: Armando Bergamin Filho\
 S1: Epidemiology- based management of vegetable diseases - Mary Ruth McDonald (University of Guelph)
 
 S2: Exploring Causal Relationships to Improve the Development of Production and Management Scenarios - Paul Esker (Penn State University)
@@ -157,3 +183,5 @@ S3: Epidemiology-based management strategies for citrus Huanglongbing - Renato B
 10:45 Coffee break
 
 11:00 Concluding remarks and planning for IEW14 
+
+Moderator: David Gadoury
