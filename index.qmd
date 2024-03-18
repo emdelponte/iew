@@ -56,6 +56,10 @@ The daily rates for different rooms are:
 
 -   TPL R\$292 + 5% ISS
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3599.5458391528546!2d-54.5234710887096!3d-25.55350087738932!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94f696ad6e57a6c5%3A0xad35664bf105a263!2sInterludium%20Iguassu%20Convention%20Hotel%20by%20Atlantica!5e0!3m2!1sen!2sbr!4v1710764209310!5m2!1sen!2sbr" width="100%" height="350" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade">
+
+</iframe>
+
 ## How to reach Foz do Iguaçu
 
 **By Plane:** The nearest airport to reach Foz do Iguaçu is the Foz do Iguaçu/Cataratas International Airport that offers frequent flights to Rio de Janeiro, Sao Paulo, Santiago de Chile etc.
